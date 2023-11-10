@@ -1,0 +1,151 @@
+*{
+    overflow-x: hidden;
+}
+.container-02{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.bg-figma{
+    background: #1746A2 !important;
+}
+
+nav .navbar-brand{
+    font-weight: Bold;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav .nav-item a{
+    font-size: 20px;
+    font-weight: Bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.img-container img{
+    width: 100%;
+    height: 100%;
+}
+
+.text-box{
+    list-style: none;
+    margin-top: 2px;
+}
+
+
+.home-section img{
+    width: 100%;
+}
+
+.born{
+    padding-left: 29%;
+}
+.real-estate{
+    padding-left: 12%;
+}
+
+.birth {
+    padding-left: 12.5%;
+}
+
+.stay{
+    padding-left: 13.5%;
+} 
+.mba{
+    padding-left: 13.5%;
+}
+
+.left-text-align{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.right-text-align{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.detail-card{
+    color: #fff;
+    background-color: #1746A2 !important;
+    box-shadow: 10px 4px 10px #9c9a96;
+}
+
+.detail-card h5{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #5F9DF7;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading h4{
+    font-size: 30px;
+    font-weight: normal;
+    color: #1746A2;
+    font-family: 'Poppins', sans-serif;
+}
+
+.para{
+    font-size: 20px;
+    font-weight: 100;
+    line-height: normal;
+    margin-bottom: 2%;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+.video-container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.video-container iframe{
+    box-shadow: 9.1687px 9.1687px 3.66748px 0px rgba(0, 0, 0, 0.25);
+}
+
+.footer-body img{
+    float: left;
+}
+
+.bg-pink{
+    background: #D67CA9;
+}
+
+.bg-blue{
+    background: #5F9DF7;
+}
+
+.bg-red{
+    background: #F56060;
+}
+
+
+.footer-head h4{
+    color: #FFF;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.footer-body .span{
+    color: #FFF;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 20px;
+    margin-left:15%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

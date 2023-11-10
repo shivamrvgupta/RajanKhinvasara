@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+
+  a{
+    text-decoration: none;   
+  }
+  a:hover{
+    text-decoration: none !important;    
+  }
+
+  .heading h1, h4{
+    overflow: hidden;
+  }
+
+  .home-section img{
+    width: 100%;
+}
