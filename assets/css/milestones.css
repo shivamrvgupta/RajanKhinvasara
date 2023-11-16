@@ -68,26 +68,6 @@ nav .nav-item a{
 }
 
 
-.footer-head h4{
-  color: #FFF;
-  text-align: justify;
-  font-family: Montserrat;
-  font-size: 25px;
-  font-style: normal;
-  font-weight: bold;
-  line-height: normal;
-}
-
-.footer-body .span{
-  color: #FFF;
-  text-align: justify;
-  font-family: Montserrat;
-  font-size: 20px;
-  margin-left:15%;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
 
 * {
   box-sizing: border-box;
